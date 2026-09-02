@@ -5,6 +5,6 @@
 window.NINE_QUANT_CONFIG = {
   domain: "999ai.one",
   githubUrl: "", // Example: https://github.com/your-account/999quant.git
-  contactEmail: "hello@999ai.one",
+  contactEmail: "flychina426@gmail.com",
   defaultLanguage: "zh"
 };
