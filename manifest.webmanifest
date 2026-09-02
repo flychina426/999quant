@@ -1,0 +1,12 @@
+{
+  "name": "999Quant",
+  "short_name": "999Quant",
+  "description": "Open-source lightweight quant research infrastructure by 999AI.ONE",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#f4f7fb",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
